@@ -1,0 +1,77 @@
+html *
+{
+   color: white !important;
+   font-family: Arial!important;
+}
+
+body{
+  background-color: black;
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+}
+
+.bigText1 {
+    opacity: 0;
+    font-size: 100px;
+    color: white;
+}
+.bigText2 {
+    opacity: 0;
+    font-size: 100px;
+    color: white;
+}
+.bigText3 {
+    opacity: 0;
+    font-size: 100px;
+    color: white;
+}
+.bigText4 {
+    opacity: 0;
+    font-size: 100px;
+    color: white;
+}
+.bigText5 {
+    opacity: 0;
+    font-size: 100px;
+    color: white;
+}
+.bigText6 {
+    opacity: 0;
+    font-size: 100px;
+    color: white;
+}
+.bigText7 {
+    opacity: 0;
+    font-size: 100px;
+    color: white;
+}
+.bigText8 {
+    opacity: 0;
+    font-size: 100px;
+    color: white;
+}
+
+.smallText9 {
+    opacity: 0;
+    font-size: 19.5px;
+    color: white;
+  }
+  
+.smallText10{
+    opacity: 0;
+    font-size: 19.5px;
+    color: white;
+}
+
+.smallText11{
+    opacity: 0;
+    font-size: 19.5px;
+    color: white;
+}
+
+.cool {
+  border-color: aqua;
+  text-decoration: none;
+  color: initial;
+}
